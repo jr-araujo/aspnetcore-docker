@@ -48,4 +48,4 @@ Para obter o IP do container que está rodando o SQL SERVER, você precisa digit
 - `> docker ps -a`
 - `> docker inspect <DOCKER_ID>`
 
-OBS.: Para que você possa obter o IP, o container do SQL Server precisa estar executando.
+OBS.: Para que você possa obter o IP, o container do SQL Server precisa estar rodando/executando.
